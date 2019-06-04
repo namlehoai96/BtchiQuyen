@@ -1,0 +1,1 @@
+background-body: #f2f2f2
